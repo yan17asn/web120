@@ -30,7 +30,7 @@
 </header>
         
 <!-- START LEFT COL -->
-<section>
+<section style="">
  <h2 class="pageID">Welcome</h2>
 
 <!-- MAKE SURE YOU GET YOUR (3) IMAGES SAVED INTO YOUR IMAGES FOLDER -->
