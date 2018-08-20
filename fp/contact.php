@@ -1,6 +1,6 @@
 <?php include 'includes/header.php'?>
 <div id="contactform">
-<h2>Contact Bookthinkso</h2>
+<p id="subtitle">Contact Bookthinkso</p>
 <?php include "includes/multiple.php";?>
 <p class="clear-recaptcha"></p>
 </div>

@@ -23,43 +23,50 @@
          <span class="glyphicon glyphicon-chevron-right"></span></a>
         </div>
      <div id="indexbackground">
-         <div id="news">
+      <div id="news">
          <div class="newsleft">
-         <img class="about3" src="images/about5.jpg" alt="about us photo1" />
+         <img class="newsimg" src="images/news4.jpg" alt="news photo" />
           <div class=newscontent>
-         <p class="newstitle">dfasfasfasfafdafafafaf</p>
-         <p>dfsafasfsafasfasffdasfasf,fdsafasfasfljdalsfjasf,fdaslfasfalsfalsdfas</p>
+         <p class="newstitle">New Drinks!</p>
+         <p>New tea and coffee coming soon!</p>
+         
           </div>
              
          </div>
          
          <div class="newsright">
-        <img class="about3" src="images/about5.jpg" alt="about us photo1" />
+        <img class="newsimg" src="images/news2.jpg" alt="news photo" />
          <div class=newscontent>
-         <p class="newstitle">dfasfasfasfafdafafafaf</p>
-         <p>dfsafasfsafasfasffdasfasf,fdsafasfasfljdalsfjasf,fdaslfasfalsfalsdfas</p>
+         <p class="newstitle">Established in July 2018</p>
+         <p>Thank you for all customers!</p>
           </div>
-         
-         <div class="clear"></div>
          </div>
              <div class="newsleft">
-         <img class="about3" src="images/about5.jpg" alt="about us photo1" />
+         <img class="newsimg" src="images/news3.jpg" alt="news photo" />
           <div class=newscontent>
-         <p class="newstitle">dfasfasfasfafdafafafaf</p>
-         <p>dfsafasfsafasfasffdasfasf,fdsafasfasfljdalsfjasf,fdaslfasfalsfalsdfas</p>
+         <p class="newstitle">Handmade wallet class</p>
+              <p>Handmade wallet class held in last week.</p>
+              <p>All student got a new skill.Congratulations!</p>
           </div>
              
          </div>
          
          <div class="newsright">
-        <img class="about3" src="images/about5.jpg" alt="about us photo1" />
-         <div class=newscontent>
-         <p class="newstitle">dfasfasfasfafdafafafaf</p>
-         <p>dfsafasfsafasfasffdasfasf,fdsafasfasfljdalsfjasf,fdaslfasfalsfalsdfas</p>
-          </div>
+        <img class="newsimg" src="images/news1.jpg" alt="news photo" />
          
-         <div class="clear"></div>
-         </div>
+        <div class=newscontent>
+        <p class="newstitle">Back to School</p>
+         <p>New school's textbook coming soon!</p>
+         <p>90% off for all pupils and students</p>
+        </div>
+        </div>
+         
+         
+          
+          
+          
+          <div class="clear"></div>
+         
      </div>                        
     
       

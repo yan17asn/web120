@@ -23,7 +23,7 @@
       <nav id="booknav" class="navbar navbar-inverse">
         
            <div class="navbar-header">
-               <a href="#" class="navbar-brand" ><img style="width: 100px;" src="images/logo.png" alt="bookthinkso"></a>
+               <a href="index.php" class="navbar-brand" ><img style="width: 100px;" src="images/logo.png" alt="bookthinkso"></a>
                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
                <span class="icon-bar"></span>
                <span class="icon-bar"></span>

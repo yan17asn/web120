@@ -45,6 +45,34 @@ body{
     background-color:#4e4a2e;
 }
 
+.newstitle{
+    color:#d7f5d7;
+    font-style: italic;
+    font-weight: bold;
+}
+
+ #galleriestitle{
+        font-size:2em;
+        font-weight: bold;
+        color:#4e4a2e;
+        margin-left: 1em;
+        margin-top: 1em;
+    }
+
+#subtitle{
+    font-size:2em;
+        font-weight: bold;
+        color:#4e4a2e;
+        
+        margin-top: 1em;
+    }
+#disclaimertitle{
+    text-align: center;
+    margin-top:1em;
+    font-size:2em;
+    font-weight: bold;
+    
+}
 
 
 
@@ -56,8 +84,8 @@ body{
     margin:0 auto;
     width:70%;
     background-color: #f5f8f5;
-    font-family: monospace;
-    font-size: 1.5em;
+    
+    font-size: 1em;
 }
 
 .aboutcol1{
@@ -148,7 +176,10 @@ body{
     margin:0 auto;
     
 }
-
+.newsimg{
+      margin:1em 0;
+      width:32%;
+    }
 .newsleft{
     float:left;
     width:50%;
@@ -179,7 +210,13 @@ body{
     color:white;
     overflow: hidden;
 }
+.newstitle{
     
+    font-size: 1em;
+    
+} 
+    
+   
 
 }
 
@@ -226,6 +263,12 @@ body{
     margin:0 auto;
     
 }
+    
+.newsimg{
+      margin:1em 0;
+      width:32%;
+    }
+
 .newsleft{
     float:left;
     width:50%;
@@ -258,6 +301,11 @@ body{
     color:white;
     overflow: hidden;
 }
+.newstitle{
+    
+    font-size: 9px;;
+    
+} 
 
     
 
@@ -294,6 +342,11 @@ body{
     margin:0 auto;
     
 }
+    
+.newsimg{
+      margin:1em 0;
+      
+    }
 
 .newsleft{
     text-align: center;

@@ -1,7 +1,7 @@
 <?php include 'includes/header.php'?>
 
 		<div class="content">
-            <h2 id="galleriestitle">Galleries of Bookthinkso</h2>
+            <p id="galleriestitle">Galleries of Bookthinkso</p>
 			<div class="grid">
 				<div class="grid__item" data-size="1000x667">
 					<a href="images/original/1.jpg" class="img-wrap"><img src="images/thumbs/1.jpg" alt="img01" />
