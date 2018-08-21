@@ -23,10 +23,10 @@
   <a href="index.php"><img class="logoicon" src="images/logo.png" alt="bookthinkso"></a>
  <nav id="cssmenu">
      <ul>
-     <li><a href="index.php"><span><i class="fa fa-fw fa-home"></i>Home</span></a></li>
-     <li><a href="galleries.php"><span><i class="fa fa-fw fa-home"></i>Galleries</span></a></li>
-     <li><a href="about.php"><span><i class="fa fa-fw fa-file-text-o"></i>About</span></a></li>
-     <li><a href="contact.php"><span><i class="fa fa-fw fa-file-text-o"></i>Contact</span></a></li>
+     <li><a href="index.php"><span><i class="fa fa-fw fa-home"></i> Home</span></a></li>
+     <li><a href="galleries.php"><span><i class="fa fa-camera"></i> Galleries</span></a></li>
+     <li><a href="about.php"><span><i class="fa fa-folder"></i> About</span></a></li>
+     <li><a href="contact.php"><span><i class="fa fa-envelope"></i> Contact</span></a></li>
      </ul>
      </nav>
 </header>
