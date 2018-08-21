@@ -98,7 +98,7 @@
 			<!-- /preview -->
 		</div>
 		
-	</div>
+	
 	<!-- /container -->
 	
 	<script src="js/imagesloaded.pkgd.min.js"></script>

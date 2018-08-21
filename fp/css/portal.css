@@ -10,6 +10,9 @@ body{
 #booknav{
     margin-bottom:0px;
 }
+
+
+
 #myCarousel{
     margin-top: 0px;
     
@@ -72,6 +75,18 @@ body{
     font-size:2em;
     font-weight: bold;
     
+}
+.logoicon{
+    width:200px;
+    margin-top:20px;
+}
+
+.indexphoto{
+    text-align: center;
+}
+
+.indexphoto img{
+    width: 80%;
 }
 
 
@@ -221,7 +236,7 @@ body{
 }
 
 /* TABLET */
-@media all and (min-width:737px) and (max-width:1449px){
+@media all and (min-width:750px) and (max-width:1449px){
  .aboutcol1 img{
     float:left;
     width:30%;
@@ -236,10 +251,10 @@ body{
 
 .aboutcontentr{
 
-    margin-right:2em;
-    width:50%;
+    
+    width:55%;
     float:right;
-    padding: 2em;
+    padding: 1em;
     
    
 }
@@ -247,9 +262,10 @@ body{
 .aboutcontentl{
     
     margin-left:2em;
-    width:50%;
-    padding: 2em;
+    width:55%;
+    padding: 1em;
     float:left;
+    
 }
     .about3{
         width:32%;
@@ -315,7 +331,7 @@ body{
 }
 
 /* PHONE */
-@media all and (max-width:736px){
+@media all and (max-width:750px){
  .aboutcol2{
         text-align: center;
     }

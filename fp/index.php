@@ -1,34 +1,32 @@
 <?php include 'includes/header.php'?>
+<div id="slider">
+	<ul class="slides clearfix">
+		<li><img class="responsive" src="images/example-slide-1.jpg" alt="homepage photo"></li>
+		<li><img class="responsive" src="images/example-slide-2.jpg" alt="homepage photo"></li>
+		<li><img class="responsive" src="images/example-slide-3.jpg" alt="homepage photo"></li>
+		
+	</ul>
+	<ul class="controls">
+		<li><img src="img/prev.png" alt="previous"></li>
+		<li><img src="img/next.png" alt="next"></li>
+	</ul>
+	<ul class="pagination">
+		<li class="active"></li>
+		<li></li>
+		<li></li>
+		
+	</ul>
+</div>
 
-          <div id="myCarousel" class="carousel slide">
-         <ol class="carousel-indicators">
-             <li data-target="#myCarousel" data-slide-to="0"></li>
-             <li data-target="#myCarousel" data-slide-to="1"></li>
-             <li data-target="#myCarousel" data-slide-to="2"></li>
-         </ol>
-         <div class="carousel-inner">
-         <div class="item active" style="background: #000">
-             <img src="images/example-slide-1.jpg">
-         </div>
-         <div class="item" style="background: #000">
-             <img src="images/example-slide-2.jpg">
-         </div>
-         <div class="item" style="background: #000">
-             <img src="images/example-slide-3.jpg">
-         </div>
-        </div>
-         <a href="#myCarousel" data-slide="prev" class="carousel-control left">
-         <span class="glyphicon glyphicon-chevron-left"></span></a>
-         <a href="#myCarousel" data-slide="next" class="carousel-control right">
-         <span class="glyphicon glyphicon-chevron-right"></span></a>
-        </div>
+
+         
      <div id="indexbackground">
       <div id="news">
          <div class="newsleft">
          <img class="newsimg" src="images/news4.jpg" alt="news photo" />
           <div class=newscontent>
          <p class="newstitle">New Drinks!</p>
-         <p>New tea and coffee coming soon!</p>
+         <p>New tea coming soon!</p>
          
           </div>
              
@@ -67,7 +65,22 @@
           
           <div class="clear"></div>
          
-     </div>                        
+         </div></div>
+
+<script src="dist/easySlider.js"></script>
+<script type="text/javascript">
+	$(function() {
+		$("#slider").easySlider( {
+			slideSpeed: 500,
+			paginationSpacing: "15px",
+			paginationDiameter: "12px",
+			paginationPositionFromBottom: "20px",
+			slidesClass: ".slides",
+			controlsClass: ".controls",
+			paginationClass: ".pagination"					
+		});
+	});
+</script>
     
       
 <?php include 'includes/footer.php'?>

@@ -5,39 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>BookThinkSo</title>
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/style1.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+    <script src="https://s3.amazonaws.com/menumaker/menumaker.min.js"></script>
     <link href="css/form.css" rel="stylesheet">
     <link href="css/portal.css" rel="stylesheet">
+    <script src="js/modernizr-custom.js"></script>
+    <script src="js/script.js"></script>
+    <link rel="stylesheet" href="css/nav.css" />
+    <link rel="stylesheet" href="css/style.css">
     
-	<script src="js/modernizr-custom.js"></script>
-    <script src="js/bootstrap.min.js"></script>
 </head>
-  <body>
-  <div class="wrapper">
-  <header>
-      
-      <nav id="booknav" class="navbar navbar-inverse">
-        
-           <div class="navbar-header">
-               <a href="index.php" class="navbar-brand" ><img style="width: 100px;" src="images/logo.png" alt="bookthinkso"></a>
-               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-               <span class="icon-bar"></span>
-               <span class="icon-bar"></span>
-               <span class="icon-bar"></span>
-               </button>
-          </div>
-          <div class="collapse navbar-collapse" id="navbar-collapse">
-          <ul class="nav navbar-nav navbar-right">
-              <li><a class="active" href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
-              <li><a href="galleries.php"><span class="glyphicon glyphicon-th"></span> Galleries</a></li>
-              <li><a href="about.php"><span class="glyphicon glyphicon-info-sign"></span> About</a></li>
-              <li><a href="contact.php"><span class="glyphicon glyphicon-envelope"></span> Contact</a></li>
-          </ul>
-          </div>
-        
+<body>
+<div class="wrapper">
+<header>
+  <a href="index.php"><img class="logoicon" src="images/logo.png" alt="bookthinkso"></a>
+ <nav id="cssmenu">
+     <ul>
+     <li><a href="index.php"><span><i class="fa fa-fw fa-home"></i>Home</span></a></li>
+     <li><a href="galleries.php"><span><i class="fa fa-fw fa-home"></i>Galleries</span></a></li>
+     <li><a href="about.php"><span><i class="fa fa-fw fa-file-text-o"></i>About</span></a></li>
+     <li><a href="contact.php"><span><i class="fa fa-fw fa-file-text-o"></i>Contact</span></a></li>
+     </ul>
      </nav>
-      </header>
+</header>
