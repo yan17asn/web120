@@ -7,8 +7,8 @@
 		
 	</ul>
 	<ul class="controls">
-		<li><img src="img/prev.png" alt="previous"></li>
-		<li><img src="img/next.png" alt="next"></li>
+		<li><img src="images/prev.png" alt="previous"></li>
+		<li><img src="images/next.png" alt="next"></li>
 	</ul>
 	<ul class="pagination">
 		<li class="active"></li>
